@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)" width="30"/> ɪ'ᴍ Maximiliano! 
+# <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="30"/> ɪ'ᴍ Maximiliano! 
 *Programmer Full Stack*
 <br /> 
 
@@ -72,8 +72,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/marignomaxy/CursoReactJS">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=marignomaxy&repo=CursoReactJS&theme=nightowl&show_owner=true" alt="Curso React Js" />
         </a>
       </p>
     </td>
