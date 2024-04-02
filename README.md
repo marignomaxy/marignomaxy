@@ -1,15 +1,16 @@
 <!--Banner-->
 <!--![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)-->
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+
 
 <!--Header Name-->
-# <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="30"/> ɪ'ᴍ Maximiliano! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Maximiliano! 
 *Programmer Full Stack*
 <br /> 
+<!--Night Owl image-->
+<div>
+  <img align="right" width="29%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
+</div>
 
 <!--Start Introduction-->               
 <p align="left">I'm a Full Stack developer with a passion for creating web applications and developing innovative solutions. I specialize in technologies like React.js, Angular, Node.js, Java, and have experience in designing and developing relational databases, as well as creating REST APIs and data visualization.</p>
@@ -19,11 +20,6 @@
 <!-- - 💻 You can check out some of my projects on my [Portfolio](https://kiran1689.github.io) to learn more about my work.-->
 <!--End Introduction-->
 
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
 
 ---
 <br />
